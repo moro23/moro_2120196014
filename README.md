@@ -6,3 +6,6 @@ This app is to assist healthcare professionals especially within a designated lo
 For now that is core of the app but I intend to use the incremental approach to Software development, hence I would be added some features during the development life cycle of the application. 
 
 I have created a new branche called "Assigments" and I have uploaded all my snapshots at that branch. 
+
+I have created another branche called "Final_Project" which contains all the source code for my Final project. 
+Thank you
